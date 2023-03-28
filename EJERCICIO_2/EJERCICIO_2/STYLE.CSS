@@ -1,0 +1,54 @@
+
+*{font-family:sans-serif ;
+}
+
+body{
+    background-color: rgb(68, 68, 68);
+}
+
+.menu{
+height: 100%;
+width: 20%;
+color: white;  
+position: fixed;
+    
+    
+}
+
+.contenido{
+    width: 80%;
+    height: 100%;
+    float:right;
+      
+}
+
+.primero{
+    background-color: aqua;
+    padding: 35px;  
+    height: 25%;
+          
+}
+.segundo{
+    background-color: yellow;
+    padding: 35px;
+    height: 25%;
+    
+     
+           
+}
+
+.tercero{
+    background-color: orange;
+    padding: 35px;
+    height: 25%;
+       
+    
+}
+
+.cuarto{
+    background-color: red;
+    padding: 35px;
+    height: 25%;
+       
+         
+}
